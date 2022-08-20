@@ -8,7 +8,7 @@
         "CoolandonRS"
     ],
     "contact": {
-        "repo": "placeholder"
+        "repo": "https://github.com/CoolandonRS/Numra-Scripter-Fabric"
     },
     "license": "unlicense",
     "environment": "server",
