@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 1,
+    "id": "scripter",
+    "version": "${version}",
+    "name": "Scripter",
+    "description": "Simple mod for Minecraft Fabric to allow for the running of scripts using ingame commands",
+    "authors": [
+        "CoolandonRS"
+    ],
+    "contact": {
+        "repo": "placeholder"
+    },
+    "license": "unlicense",
+    "environment": "server",
+    "entrypoints": {
+        "main": [
+            "net.numra.scripter.Scripter"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.14.9",
+        "fabric": "*",
+        "minecraft": "1.19.2"
+    }
+}
